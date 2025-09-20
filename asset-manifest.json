@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/modallifecycle/static/css/main.e6c13ad2.css",
+    "main.js": "/modallifecycle/static/js/main.2515b1d6.js",
+    "static/js/453.daccb644.chunk.js": "/modallifecycle/static/js/453.daccb644.chunk.js",
+    "index.html": "/modallifecycle/index.html",
+    "main.e6c13ad2.css.map": "/modallifecycle/static/css/main.e6c13ad2.css.map",
+    "main.2515b1d6.js.map": "/modallifecycle/static/js/main.2515b1d6.js.map",
+    "453.daccb644.chunk.js.map": "/modallifecycle/static/js/453.daccb644.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.2515b1d6.js"
+  ]
+}
